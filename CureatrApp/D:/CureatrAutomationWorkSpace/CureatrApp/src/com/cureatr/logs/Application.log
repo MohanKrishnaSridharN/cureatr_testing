@@ -1,0 +1,145 @@
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript :: Hello Mohan Nimmala
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript ::  Hello
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript :: Intialze Suite Xlsx
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript Web_MESSAGING -- N
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript Web_SIGNOUT -- N
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript Web_QUICK_MESSAGES -- N
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript Web_SIGNIN -- Y
+28/03/2016 20:18:45 com.cureatr.scripts.DriverScript COPYING TEST SCRIPT SHEETS.XLS FILE FROM INPUT FOLDER TO OUTPUT FOLDERWeb_SIGNIN
+28/03/2016 20:18:46 com.cureatr.scripts.DriverScript SignIn -- N
+28/03/2016 20:18:46 com.cureatr.scripts.DriverScript SignIn2windows -- Y
+28/03/2016 20:18:46 com.cureatr.scripts.DriverScript **********Executing Test Cases**********SignIn2windows
+28/03/2016 20:18:46 com.cureatr.scripts.DriverScript **********ITERATION NUMBER**********1
+28/03/2016 20:18:46 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LaunchWebBrowser
+28/03/2016 20:18:50 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:18:59 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********OpenWebApp
+28/03/2016 20:19:11 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:11 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyTitle
+28/03/2016 20:19:11 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:11 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:11 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:11 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********SearchInstitution
+28/03/2016 20:19:13 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:13 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********selectInstitution
+28/03/2016 20:19:14 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:14 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:15 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:15 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:15 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:15 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:16 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:16 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyTextContains
+28/03/2016 20:19:16 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:16 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:16 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:17 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:17 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:17 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:17 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:17 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyWaterMark
+28/03/2016 20:19:18 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:18 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyWaterMark
+28/03/2016 20:19:18 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:18 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:19 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:19 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Type
+28/03/2016 20:19:19 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:20 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Type
+28/03/2016 20:19:20 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:20 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:21 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:21 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Click
+28/03/2016 20:19:21 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:21 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifySignIn
+28/03/2016 20:19:28 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:29 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:29 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:29 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:29 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:30 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:30 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:30 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:30 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:31 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:31 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:31 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:31 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:31 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:32 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:32 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:32 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:32 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:32 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:33 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:33 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:33 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:33 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:33 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:19:34 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:34 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:34 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:19:34 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:19:35 com.cureatr.scripts.DriverScript FAIL
+28/03/2016 20:19:35 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:20:08 com.cureatr.scripts.DriverScript FAIL
+28/03/2016 20:20:08 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Click
+28/03/2016 20:20:12 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:12 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Click
+28/03/2016 20:20:17 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:17 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Click
+28/03/2016 20:20:21 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:21 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LaunchWebBrowser2
+28/03/2016 20:20:26 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:26 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********OpenWebApp
+28/03/2016 20:20:35 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:35 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyTitle
+28/03/2016 20:20:35 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:35 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:36 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:36 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********SearchInstitution
+28/03/2016 20:20:36 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:36 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********selectInstitution
+28/03/2016 20:20:37 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:37 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:37 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:37 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:38 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:38 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:38 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:38 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:39 com.cureatr.scripts.DriverScript FAIL
+28/03/2016 20:20:39 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:39 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:39 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:39 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:39 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:40 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:40 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyWaterMark
+28/03/2016 20:20:40 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:40 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyWaterMark
+28/03/2016 20:20:40 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:41 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:20:41 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:41 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Type
+28/03/2016 20:20:41 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:41 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Type
+28/03/2016 20:20:42 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:42 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********LinkState
+28/03/2016 20:20:42 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:42 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Click
+28/03/2016 20:20:42 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:43 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifySignIn
+28/03/2016 20:20:43 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:45 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Click
+28/03/2016 20:20:45 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:45 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Select
+28/03/2016 20:20:51 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:51 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********Wait
+28/03/2016 20:20:55 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:55 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********verifyText
+28/03/2016 20:20:55 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:55 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********CloseWebApp
+28/03/2016 20:20:59 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:20:59 com.cureatr.scripts.DriverScript executeKeywords:**********Current Keyword Name**********CloseWebApp
+28/03/2016 20:21:01 com.cureatr.scripts.DriverScript PASS
+28/03/2016 20:21:02 com.cureatr.scripts.DriverScript InstitutionsList -- N
